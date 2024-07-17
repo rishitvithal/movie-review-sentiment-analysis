@@ -14,20 +14,7 @@ pip3 install -r requirements.txt
 ```
 
 
-Run:
-3. Run the following commands below for preparing the test models:
-
-Windows:
-```shell
-python test.py
-```
-macOS/Linux:
-```shell
-python3 test.py
-```
-
-
-4. Run the following commands to run the final app:
+3. Run the following commands to run the final app:
 
 Windows:
 ```shell
